@@ -1,5 +1,102 @@
 {
-  "shows": {},
+  "shows": {
+    "SATB|1988|20261030|BOX A": {
+      "venue": "Sandhya Cinema: Bengaluru",
+      "time": "06:05 AM",
+      "date": "20261030",
+      "cat": "BOX A",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SATB|1988|20261030|GOLD": {
+      "venue": "Sandhya Cinema: Bengaluru",
+      "time": "06:05 AM",
+      "date": "20261030",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SATB|1988|20261030|SILVER": {
+      "venue": "Sandhya Cinema: Bengaluru",
+      "time": "06:05 AM",
+      "date": "20261030",
+      "cat": "SILVER",
+      "price": "150.00",
+      "status": "3"
+    },
+    "SATB|1989|20261030|BOX A": {
+      "venue": "Sandhya Cinema: Bengaluru",
+      "time": "10:00 AM",
+      "date": "20261030",
+      "cat": "BOX A",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SATB|1989|20261030|GOLD": {
+      "venue": "Sandhya Cinema: Bengaluru",
+      "time": "10:00 AM",
+      "date": "20261030",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SATB|1989|20261030|SILVER": {
+      "venue": "Sandhya Cinema: Bengaluru",
+      "time": "10:00 AM",
+      "date": "20261030",
+      "cat": "SILVER",
+      "price": "150.00",
+      "status": "3"
+    },
+    "SATB|1993|20261031|BOX A": {
+      "venue": "Sandhya Cinema: Bengaluru",
+      "time": "06:05 AM",
+      "date": "20261031",
+      "cat": "BOX A",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SATB|1993|20261031|GOLD": {
+      "venue": "Sandhya Cinema: Bengaluru",
+      "time": "06:05 AM",
+      "date": "20261031",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SATB|1993|20261031|SILVER": {
+      "venue": "Sandhya Cinema: Bengaluru",
+      "time": "06:05 AM",
+      "date": "20261031",
+      "cat": "SILVER",
+      "price": "150.00",
+      "status": "3"
+    },
+    "SATB|1994|20261031|BOX A": {
+      "venue": "Sandhya Cinema: Bengaluru",
+      "time": "10:00 AM",
+      "date": "20261031",
+      "cat": "BOX A",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SATB|1994|20261031|GOLD": {
+      "venue": "Sandhya Cinema: Bengaluru",
+      "time": "10:00 AM",
+      "date": "20261031",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SATB|1994|20261031|SILVER": {
+      "venue": "Sandhya Cinema: Bengaluru",
+      "time": "10:00 AM",
+      "date": "20261031",
+      "cat": "SILVER",
+      "price": "150.00",
+      "status": "3"
+    }
+  },
   "dates": {
     "20261030": "AVAILABLE",
     "20261031": "BOOKABLE",
